@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English 12 Unit 1 - Questions</title>
+    <style>
+        @media print {
+            body { margin: 0; }
+            .no-print { display: none; }
+        }
+        body {
+            font-family: 'Times New Roman', serif;
+            max-width: 210mm;
+            margin: 0 auto;
+            padding: 20mm;
+            line-height: 1.6;
+            background: white;
+        }
+        .header {
+            text-align: center;
+            border-bottom: 3px solid #333;
+            padding-bottom: 15px;
+            margin-bottom: 25px;
+        }
+        h1 {
+            color: #2c3e50;
+            font-size: 24px;
+            margin: 10px 0;
+        }
+        h2 {
+            color: #34495e;
+            font-size: 20px;
+            margin-top: 30px;
+            padding: 8px;
+            background: #ecf0f1;
+            border-left: 4px solid #3498db;
+        }
+        h3 {
+            color: #2980b9;
+            font-size: 16px;
+            margin-top: 20px;
+        }
+        .passage {
+            background: #f9f9f9;
+            padding: 20px;
+            border-radius: 5px;
+            margin: 20px 0;
+            border-left: 4px solid #27ae60;
+        }
+        .passage p {
+            text-align: justify;
+            margin: 10px 0;
+        }
+        .questions {
+            margin: 20px 0;
+        }
+        .question {
+            margin: 15px 0;
+            padding-left: 10px;
+        }
+        .grammar-section {
+            background: #fff9e6;
+            padding: 15px;
+            margin: 15px 0;
+            border-radius: 5px;
+            border-left: 4px solid #f39c12;
+        }
+        .exercise-item {
+            margin: 12px 0;
+            line-height: 2;
+        }
+        .blank {
+            display: inline-block;
+            width: 200px;
+            border-bottom: 1px solid #333;
+            margin: 0 5px;
+        }
+        .print-btn {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            padding: 12px 24px;
+            background: #3498db;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+        }
+        .print-btn:hover {
+            background: #2980b9;
+        }
+        .info-box {
+            background: #e8f4f8;
+            padding: 10px;
+            border-radius: 5px;
+            margin: 10px 0;
+            border-left: 4px solid #3498db;
+        }
+    </style>
+</head>
+<body>
+    <button class="print-btn no-print" onclick="window.print()">🖨️ In/Lưu PDF</button>
+    
+    <div class="header">
+        <h1>ENGLISH 12 - UNIT 1: LIFE STORIES WE ADMIRE</h1>
+        <p style="font-size: 18px; margin: 5px 0;"><strong>READING & GRAMMAR EXERCISES - QUESTIONS</strong></p>
+        <div class="info-box">
+            <p><strong>Student Name:</strong> <span class="blank"></span> <strong>Class:</strong> <span class="blank" style="width: 80px;"></span></p>
+            <p><strong>Date:</strong> <span class="blank" style="width: 150px;"></span></p>
+        </div>
+    </div>
+
+    <h2>PART A: READING COMPREHENSION</h2>
+
+    <h3>READING PASSAGE 1: A Young Environmental Hero</h3>
+    <div class="passage">
+        <p>Mai Nguyen is a 25-year-old Vietnamese woman who has dedicated her life to protecting the environment. When she was only 15 years old, she started a campaign to reduce plastic waste in her hometown in Da Nang. She noticed that many beaches were covered with plastic bottles and bags, which made her very sad.</p>
+        
+        <p>Mai began by organizing beach clean-up events every weekend. At first, only five friends joined her. However, her passion and determination inspired many others. After two years, more than 200 volunteers were participating in her monthly clean-up activities. She also gave presentations at local schools to teach students about environmental protection.</p>
+        
+        <p>In 2020, Mai received the Young Environmental Leader Award from the Ministry of Natural Resources and Environment. Despite facing many challenges, including lack of funding and support, she never gave up. Today, her organization has expanded to five cities across Vietnam. Mai believes that every small action can make a big difference.</p>
+    </div>
+
+    <div class="questions">
+        <p><strong>Questions:</strong></p>
+        <div class="question">1. How old was Mai when she started her environmental campaign?</div>
+        <div class="question">2. What problem did Mai notice in her hometown?</div>
+        <div class="question">3. How many friends joined Mai at the beginning?</div>
+        <div class="question">4. What award did Mai receive in 2020?</div>
+        <div class="question">5. How many cities does her organization work in now?</div>
+        <div class="question">6. According to the passage, what does Mai believe about small actions?</div>
+    </div>
+
+    <h3>READING PASSAGE 2: The Doctor Who Never Stopped Learning</h3>
+    <div class="passage">
+        <p>Dr. Tran Van Minh is one of the most respected doctors in Vietnam. Born in a small village in 1965, he faced many difficulties in his early life. His family was poor, and he had to walk 10 kilometers to school every day. However, his parents always encouraged him to study hard.</p>
+        
+        <p>After graduating from medical school with excellent grades, Dr. Minh could have worked in a big city hospital with a high salary. Instead, he decided to return to his home province to help people in rural areas. For the past 30 years, he has been treating patients in remote villages where medical facilities are limited.</p>
+        
+        <p>Dr. Minh is not only a skilled doctor but also a lifelong learner. Even at the age of 60, he continues to attend medical conferences and read international research papers to update his knowledge. He has trained more than 50 young doctors and always tells them, "A good doctor never stops learning." His dedication has improved healthcare for thousands of people.</p>
+    </div>
+
+    <div class="questions">
+        <p><strong>Questions:</strong></p>
+        <div class="question">7. When was Dr. Minh born?</div>
+        <div class="question">8. How far did he walk to school every day?</div>
+        <div class="question">9. Why is it surprising that Dr. Minh chose to work in rural areas?</div>
+        <div class="question">10. How long has Dr. Minh been working in remote villages?</div>
+        <div class="question">11. How many young doctors has he trained?</div>
+        <div class="question">12. What does Dr. Minh tell his students about being a good doctor?</div>
+    </div>
+
+    <h2>PART B: GRAMMAR EXERCISES</h2>
+
+    <div class="grammar-section">
+        <h3>Exercise 1: Past Simple vs. Present Perfect</h3>
+        <p><em>Complete the sentences with the correct form of the verbs in brackets.</em></p>
+        
+        <div class="exercise-item">1. Marie Curie <span class="blank"></span> (win) two Nobel Prizes during her lifetime.</div>
+        <div class="exercise-item">2. So far, our school <span class="blank"></span> (raise) over 50 million VND for charity.</div>
+        <div class="exercise-item">3. Nelson Mandela <span class="blank"></span> (spend) 27 years in prison before becoming president.</div>
+        <div class="exercise-item">4. I <span class="blank"></span> (never/meet) anyone as inspiring as my teacher.</div>
+        <div class="exercise-item">5. When <span class="blank"></span> (Mother Teresa/start) her work with the poor?</div>
+        <div class="exercise-item">6. The organization <span class="blank"></span> (help) thousands of children since 2010.</div>
+    </div>
+
+    <div class="grammar-section">
+        <h3>Exercise 2: Past Continuous</h3>
+        <p><em>Fill in the blanks with the past continuous form of the verbs.</em></p>
+        
+        <div class="exercise-item">7. While Malala <span class="blank"></span> (attend) school, the Taliban attacked her.</div>
+        <div class="exercise-item">8. What <span class="blank"></span> (you/do) when you heard the inspiring speech?</div>
+        <div class="exercise-item">9. The volunteers <span class="blank"></span> (clean) the beach when it started to rain.</div>
+        <div class="exercise-item">10. He <span class="blank"></span> (not/work) at that company when he got the award.</div>
+    </div>
+
+    <div class="grammar-section">
+        <h3>Exercise 3: Used to</h3>
+        <p><em>Complete the sentences using "used to" and the verbs given.</em></p>
+        
+        <div class="exercise-item">11. Albert Einstein <span class="blank"></span> (be) a poor student in mathematics.</div>
+        <div class="exercise-item">12. Steve Jobs <span class="blank"></span> (work) in his parents' garage before founding Apple.</div>
+        <div class="exercise-item">13. Oprah Winfrey <span class="blank"></span> (not/have) much money when she was young.</div>
+    </div>
+
+    <div class="grammar-section">
+        <h3>Exercise 4: Mixed Tenses</h3>
+        <p><em>Choose the correct answer.</em></p>
+        
+        <div class="exercise-item">
+            14. She <span class="blank"></span> her dream of becoming a doctor after working hard for ten years.<br>
+            <span style="margin-left: 30px;">a) achieved &nbsp;&nbsp;&nbsp; b) has achieved &nbsp;&nbsp;&nbsp; c) was achieving</span>
+        </div>
+        
+        <div class="exercise-item">
+            15. How long <span class="blank"></span> as a volunteer teacher?<br>
+            <span style="margin-left: 30px;">a) did you work &nbsp;&nbsp;&nbsp; b) have you worked &nbsp;&nbsp;&nbsp; c) were you working</span>
+        </div>
+        
+        <div class="exercise-item">
+            16. When I saw him, he <span class="blank"></span> a speech about climate change.<br>
+            <span style="margin-left: 30px;">a) gave &nbsp;&nbsp;&nbsp; b) was giving &nbsp;&nbsp;&nbsp; c) has given</span>
+        </div>
+        
+        <div class="exercise-item">
+            17. They <span class="blank"></span> three books about their life experiences so far.<br>
+            <span style="margin-left: 30px;">a) wrote &nbsp;&nbsp;&nbsp; b) have written &nbsp;&nbsp;&nbsp; c) were writing</span>
+        </div>
+    </div>
+
+    <div style="text-align: center; margin-top: 40px; padding-top: 20px; border-top: 2px solid #333;">
+        <p><strong>END OF QUESTIONS</strong></p>
+        <p style="font-size: 14px; color: #666;">Good luck with your exam! 📚</p>
+    </div>
+</body>
+</html>
